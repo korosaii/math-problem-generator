@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "temperature": 0.4,
+    "request": {
+      "topic": "linear_algebra",
+      "subtopic": "eigenvalues",
+      "difficulty": "medium",
+      "problem_type": "computational",
+      "num_problems": 1,
+      "include_solution": true,
+      "include_hints": true,
+      "output_language": "ru"
+    }
+  },
+  {
+    "id": 2,
+    "temperature": 0.2,
+    "request": {
+      "topic": "calculus",
+      "subtopic": "derivatives",
+      "difficulty": "easy",
+      "problem_type": "computational",
+      "num_problems": 1,
+      "include_solution": true,
+      "include_hints": false,
+      "output_language": "ru"
+    }
+  },
+  {
+    "id": 3,
+    "temperature": 0.7,
+    "request": {
+      "topic": "geometry",
+      "subtopic": "triangles",
+      "difficulty": "medium",
+      "problem_type": "word_problem",
+      "num_problems": 1,
+      "include_solution": false,
+      "include_hints": true,
+      "output_language": "en"
+    }
+  }
+]
