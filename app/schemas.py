@@ -18,8 +18,8 @@ class ProblemItem(BaseModel):
     title: str
     statement: str
     final_answer: Optional[str] = None
-    hints: List[str] = []
-    solution_steps: List[str] = []
+    hints: List[str] = Field(default_factory=list)
+    solution_steps: List[str] = Field(default_factory=list)
 
 
 class GenerateResponse(BaseModel):
