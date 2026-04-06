@@ -1,7 +1,10 @@
 from app.schemas import GenerateRequest
 
 
-def build_prompts(request: GenerateRequest) -> tuple[str, str]:
+def build_prompts(
+    request: GenerateRequest,
+    retrieved_context: list[dict] | None = None,
+) -> tuple[str, str]:
     system_prompt = """
 <role>
 You are an experienced mathematics educator and problem generator.
@@ -18,7 +21,20 @@ Generate math problems that exactly match the user request and return the result
 - Do not add explanations outside JSON.
 - Do not wrap the response in triple backticks.
 - The output language must exactly match the requested output_language.
+- If retrieved knowledge is provided, use it only when relevant.
 </global_rules>
+""".strip()
+
+    context_block = ""
+    if retrieved_context:
+        joined_context = "\n".join(
+            f"- {item.get('content', '')}" for item in retrieved_context
+        )
+        context_block = f"""
+<retrieved_knowledge>
+Use the following retrieved knowledge if it is relevant to the requested topic and subtopic:
+{joined_context}
+</retrieved_knowledge>
 """.strip()
 
     user_prompt = f"""
@@ -44,6 +60,8 @@ Each problem must be mathematically correct, solvable, and consistent with its f
 - If include_hints = false, return an empty array in "hints"
 </requirements>
 
+{context_block}
+
 <input_data>
 {{
   "topic": "{request.topic}",
@@ -56,20 +74,6 @@ Each problem must be mathematically correct, solvable, and consistent with its f
   "output_language": "{request.output_language}"
 }}
 </input_data>
-
-<decomposition>
-Perform the task in these simple steps:
-1. Read and understand the input data.
-2. Generate exactly {request.num_problems} problems matching the topic, subtopic, difficulty, and problem type.
-3. For each problem, write:
-   - title
-   - statement
-   - final_answer
-   - hints
-   - solution_steps
-4. Check mathematical correctness and consistency of each problem.
-5. Format the final response strictly as valid JSON.
-</decomposition>
 
 <response_format>
 Return the response strictly in this JSON structure:

@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "topic": "algebra",
+    "subtopic": "quadratic equations",
+    "difficulty": "easy",
+    "problem_type": "computational",
+    "content": "Use the discriminant formula D = b^2 - 4ac. For D > 0 there are two real roots, for D = 0 one real root, for D < 0 no real roots over the reals."
+  },
+  {
+    "id": 2,
+    "topic": "calculus",
+    "subtopic": "derivatives",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "Common derivative rules: (x^n)' = n*x^(n-1), (sin x)' = cos x, (cos x)' = -sin x, product rule and chain rule are frequently needed."
+  },
+  {
+    "id": 3,
+    "topic": "geometry",
+    "subtopic": "triangles",
+    "difficulty": "easy",
+    "problem_type": "word_problem",
+    "content": "Useful facts: sum of angles in a triangle is 180 degrees, Pythagorean theorem for right triangles, area formulas include 1/2 * base * height."
+  },
+  {
+    "id": 4,
+    "topic": "algebra",
+    "subtopic": "systems of equations",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "Systems of linear equations can be solved by substitution, elimination, or matrix methods. Check that the final solution satisfies all equations."
+  }
+]
