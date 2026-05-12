@@ -5,7 +5,7 @@
     "subtopic": "quadratic equations",
     "difficulty": "easy",
     "problem_type": "computational",
-    "content": "Use the discriminant formula D = b^2 - 4ac. For D > 0 there are two real roots, for D = 0 one real root, for D < 0 no real roots over the reals."
+    "content": "Use the discriminant formula D = b^2 - 4ac. For D > 0 there are two real roots, for D = 0 one real root, for D < 0 no real roots over the reals. Quadratic equations have the form ax^2 + bx + c = 0."
   },
   {
     "id": 2,
@@ -13,7 +13,7 @@
     "subtopic": "derivatives",
     "difficulty": "medium",
     "problem_type": "computational",
-    "content": "Common derivative rules: (x^n)' = n*x^(n-1), (sin x)' = cos x, (cos x)' = -sin x, product rule and chain rule are frequently needed."
+    "content": "Common derivative rules: (x^n)' = n*x^(n-1), (sin x)' = cos x, (cos x)' = -sin x. Product rule and chain rule are frequently needed when differentiating composite functions."
   },
   {
     "id": 3,
@@ -21,7 +21,7 @@
     "subtopic": "triangles",
     "difficulty": "easy",
     "problem_type": "word_problem",
-    "content": "Useful facts: sum of angles in a triangle is 180 degrees, Pythagorean theorem for right triangles, area formulas include 1/2 * base * height."
+    "content": "Useful facts about triangles: the sum of angles in a triangle is 180 degrees, the Pythagorean theorem is used for right triangles, and the area of a triangle is 1/2 * base * height."
   },
   {
     "id": 4,
@@ -29,6 +29,230 @@
     "subtopic": "systems of equations",
     "difficulty": "medium",
     "problem_type": "computational",
-    "content": "Systems of linear equations can be solved by substitution, elimination, or matrix methods. Check that the final solution satisfies all equations."
+    "content": "Systems of linear equations can be solved by substitution, elimination, or matrix methods. A solution must satisfy all equations in the system."
+  },
+  {
+    "id": 5,
+    "topic": "linear_algebra",
+    "subtopic": "matrices",
+    "difficulty": "easy",
+    "problem_type": "computational",
+    "content": "Matrix operations include addition, scalar multiplication, matrix multiplication, and transposition. Matrix multiplication is defined only when the number of columns of the first matrix equals the number of rows of the second matrix."
+  },
+  {
+    "id": 6,
+    "topic": "linear_algebra",
+    "subtopic": "determinants",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "The determinant of a square matrix can be used to check invertibility. A matrix is invertible if and only if its determinant is nonzero. For a 2x2 matrix [[a,b],[c,d]], the determinant is ad - bc."
+  },
+  {
+    "id": 7,
+    "topic": "linear_algebra",
+    "subtopic": "eigenvalues",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "Eigenvalues of a square matrix A are found from the characteristic equation det(A - lambda I) = 0. For each eigenvalue, eigenvectors are found by solving (A - lambda I)x = 0."
+  },
+  {
+    "id": 8,
+    "topic": "linear_algebra",
+    "subtopic": "eigenvectors",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "An eigenvector of a matrix A is a nonzero vector v such that Av = lambda v for some scalar lambda. The scalar lambda is the corresponding eigenvalue."
+  },
+  {
+    "id": 9,
+    "topic": "linear_algebra",
+    "subtopic": "rank",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "The rank of a matrix is the dimension of its column space or row space. It can be found using Gaussian elimination and counting the number of nonzero rows in row echelon form."
+  },
+  {
+    "id": 10,
+    "topic": "linear_algebra",
+    "subtopic": "linear independence",
+    "difficulty": "medium",
+    "problem_type": "proof",
+    "content": "A set of vectors is linearly independent if the only linear combination equal to the zero vector is the trivial combination with all coefficients equal to zero."
+  },
+  {
+    "id": 11,
+    "topic": "calculus",
+    "subtopic": "limits",
+    "difficulty": "easy",
+    "problem_type": "computational",
+    "content": "Limits describe the behavior of a function as the input approaches a certain value. Common techniques include direct substitution, factoring, rationalization, and using standard limits."
+  },
+  {
+    "id": 12,
+    "topic": "calculus",
+    "subtopic": "integrals",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "Indefinite integrals represent antiderivatives. Basic integration rules include the power rule, constant multiple rule, sum rule, and standard integrals of trigonometric functions."
+  },
+  {
+    "id": 13,
+    "topic": "calculus",
+    "subtopic": "definite integrals",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "A definite integral can be computed using the Fundamental Theorem of Calculus: integrate the function to find an antiderivative, then subtract the values at the endpoints."
+  },
+  {
+    "id": 14,
+    "topic": "calculus",
+    "subtopic": "optimization",
+    "difficulty": "medium",
+    "problem_type": "word_problem",
+    "content": "Optimization problems require finding maximum or minimum values. A common approach is to express the target quantity as a function, compute its derivative, find critical points, and check endpoints if needed."
+  },
+  {
+    "id": 15,
+    "topic": "geometry",
+    "subtopic": "circles",
+    "difficulty": "easy",
+    "problem_type": "computational",
+    "content": "For a circle with radius r, the circumference is 2*pi*r and the area is pi*r^2. The equation of a circle with center (a,b) and radius r is (x-a)^2 + (y-b)^2 = r^2."
+  },
+  {
+    "id": 16,
+    "topic": "geometry",
+    "subtopic": "rectangles",
+    "difficulty": "easy",
+    "problem_type": "word_problem",
+    "content": "For a rectangle, the area is length times width and the perimeter is 2 times the sum of length and width. Rectangle problems often involve finding missing sides from area or perimeter."
+  },
+  {
+    "id": 17,
+    "topic": "geometry",
+    "subtopic": "polygons",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "The sum of interior angles of an n-sided polygon is (n - 2) * 180 degrees. For a regular polygon, each interior angle is this sum divided by n."
+  },
+  {
+    "id": 18,
+    "topic": "geometry",
+    "subtopic": "coordinate geometry",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "Coordinate geometry uses algebraic formulas to study geometric objects. Important formulas include the distance formula, midpoint formula, and slope formula."
+  },
+  {
+    "id": 19,
+    "topic": "probability",
+    "subtopic": "basic probability",
+    "difficulty": "easy",
+    "problem_type": "word_problem",
+    "content": "Basic probability is calculated as the number of favorable outcomes divided by the number of all equally likely outcomes. Probabilities range from 0 to 1."
+  },
+  {
+    "id": 20,
+    "topic": "probability",
+    "subtopic": "conditional probability",
+    "difficulty": "medium",
+    "problem_type": "word_problem",
+    "content": "Conditional probability measures the probability of event A given that event B has occurred. It is computed as P(A|B) = P(A and B) / P(B), when P(B) is not zero."
+  },
+  {
+    "id": 21,
+    "topic": "probability",
+    "subtopic": "independent events",
+    "difficulty": "medium",
+    "problem_type": "proof",
+    "content": "Two events A and B are independent if P(A and B) = P(A)P(B). Equivalently, P(A|B) = P(A), provided P(B) is not zero."
+  },
+  {
+    "id": 22,
+    "topic": "probability",
+    "subtopic": "bayes theorem",
+    "difficulty": "hard",
+    "problem_type": "word_problem",
+    "content": "Bayes theorem is used to update probabilities after observing evidence. It states that P(A|B) = P(B|A)P(A) / P(B), where P(B) can be expanded using total probability."
+  },
+  {
+    "id": 23,
+    "topic": "statistics",
+    "subtopic": "mean median mode",
+    "difficulty": "easy",
+    "problem_type": "computational",
+    "content": "The mean is the arithmetic average, the median is the middle value after sorting, and the mode is the most frequent value in a dataset."
+  },
+  {
+    "id": 24,
+    "topic": "statistics",
+    "subtopic": "variance",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "Variance measures the average squared deviation from the mean. Standard deviation is the square root of variance and shows how spread out the data are."
+  },
+  {
+    "id": 25,
+    "topic": "statistics",
+    "subtopic": "normal distribution",
+    "difficulty": "medium",
+    "problem_type": "word_problem",
+    "content": "The normal distribution is symmetric around the mean. Many problems use z-scores, where z = (x - mean) / standard deviation, to find probabilities."
+  },
+  {
+    "id": 26,
+    "topic": "discrete_math",
+    "subtopic": "combinatorics",
+    "difficulty": "medium",
+    "problem_type": "word_problem",
+    "content": "Combinatorics studies counting methods. Permutations count ordered arrangements, while combinations count selections where order does not matter."
+  },
+  {
+    "id": 27,
+    "topic": "discrete_math",
+    "subtopic": "graph theory",
+    "difficulty": "medium",
+    "problem_type": "proof",
+    "content": "Graph theory studies vertices and edges. Basic concepts include degree of a vertex, paths, cycles, connected graphs, trees, and complete graphs."
+  },
+  {
+    "id": 28,
+    "topic": "discrete_math",
+    "subtopic": "logic",
+    "difficulty": "easy",
+    "problem_type": "proof",
+    "content": "Mathematical logic studies propositions, truth values, logical connectives, implications, equivalence, and truth tables."
+  },
+  {
+    "id": 29,
+    "topic": "number_theory",
+    "subtopic": "divisibility",
+    "difficulty": "easy",
+    "problem_type": "proof",
+    "content": "Divisibility means that an integer a divides an integer b if there exists an integer k such that b = ak. Common topics include divisibility rules and greatest common divisors."
+  },
+  {
+    "id": 30,
+    "topic": "number_theory",
+    "subtopic": "modular arithmetic",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "Modular arithmetic works with remainders. The notation a congruent b modulo n means that n divides a - b."
+  },
+  {
+    "id": 31,
+    "topic": "algebra",
+    "subtopic": "linear equations",
+    "difficulty": "easy",
+    "problem_type": "computational",
+    "content": "Linear equations have variables only to the first power. To solve a linear equation, isolate the variable using equivalent transformations."
+  },
+  {
+    "id": 32,
+    "topic": "algebra",
+    "subtopic": "inequalities",
+    "difficulty": "medium",
+    "problem_type": "computational",
+    "content": "Inequalities are solved similarly to equations, but when multiplying or dividing by a negative number, the inequality sign must be reversed."
   }
 ]

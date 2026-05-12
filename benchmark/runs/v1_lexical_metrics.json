@@ -1,0 +1,9 @@
+{
+  "retriever": "v1_lexical",
+  "top_k": 3,
+  "num_queries": 224,
+  "precision@3": 0.235119,
+  "recall@3": 0.705357,
+  "mrr@3": 0.65253,
+  "ndcg@3": 0.666081
+}

@@ -1,0 +1,224 @@
+{"query_id": "q0001", "text": "algebra quadratic equations easy computational", "relevant_doc_id": "1"}
+{"query_id": "q0002", "text": "algebra quadratic equations", "relevant_doc_id": "1"}
+{"query_id": "q0003", "text": "math problem about quadratic equations", "relevant_doc_id": "1"}
+{"query_id": "q0004", "text": "generate easy computational task about quadratic equations", "relevant_doc_id": "1"}
+{"query_id": "q0005", "text": "explain and use quadratic equations in algebra", "relevant_doc_id": "1"}
+{"query_id": "q0006", "text": "квадратные уравнения дискриминант", "relevant_doc_id": "1"}
+{"query_id": "q0007", "text": "найти корни квадратного уравнения", "relevant_doc_id": "1"}
+{"query_id": "q0008", "text": "calculus derivatives medium computational", "relevant_doc_id": "2"}
+{"query_id": "q0009", "text": "calculus derivatives", "relevant_doc_id": "2"}
+{"query_id": "q0010", "text": "math problem about derivatives", "relevant_doc_id": "2"}
+{"query_id": "q0011", "text": "generate medium computational task about derivatives", "relevant_doc_id": "2"}
+{"query_id": "q0012", "text": "explain and use derivatives in calculus", "relevant_doc_id": "2"}
+{"query_id": "q0013", "text": "производные правила дифференцирования", "relevant_doc_id": "2"}
+{"query_id": "q0014", "text": "найти производную функции", "relevant_doc_id": "2"}
+{"query_id": "q0015", "text": "geometry triangles easy word_problem", "relevant_doc_id": "3"}
+{"query_id": "q0016", "text": "geometry triangles", "relevant_doc_id": "3"}
+{"query_id": "q0017", "text": "math problem about triangles", "relevant_doc_id": "3"}
+{"query_id": "q0018", "text": "generate easy word_problem task about triangles", "relevant_doc_id": "3"}
+{"query_id": "q0019", "text": "explain and use triangles in geometry", "relevant_doc_id": "3"}
+{"query_id": "q0020", "text": "треугольники сумма углов площадь", "relevant_doc_id": "3"}
+{"query_id": "q0021", "text": "задача по геометрии про треугольник", "relevant_doc_id": "3"}
+{"query_id": "q0022", "text": "algebra systems of equations medium computational", "relevant_doc_id": "4"}
+{"query_id": "q0023", "text": "algebra systems of equations", "relevant_doc_id": "4"}
+{"query_id": "q0024", "text": "math problem about systems of equations", "relevant_doc_id": "4"}
+{"query_id": "q0025", "text": "generate medium computational task about systems of equations", "relevant_doc_id": "4"}
+{"query_id": "q0026", "text": "explain and use systems of equations in algebra", "relevant_doc_id": "4"}
+{"query_id": "q0027", "text": "система линейных уравнений", "relevant_doc_id": "4"}
+{"query_id": "q0028", "text": "решить систему уравнений методом подстановки", "relevant_doc_id": "4"}
+{"query_id": "q0029", "text": "linear_algebra matrices easy computational", "relevant_doc_id": "5"}
+{"query_id": "q0030", "text": "linear_algebra matrices", "relevant_doc_id": "5"}
+{"query_id": "q0031", "text": "math problem about matrices", "relevant_doc_id": "5"}
+{"query_id": "q0032", "text": "generate easy computational task about matrices", "relevant_doc_id": "5"}
+{"query_id": "q0033", "text": "explain and use matrices in linear_algebra", "relevant_doc_id": "5"}
+{"query_id": "q0034", "text": "матрицы сложение умножение транспонирование", "relevant_doc_id": "5"}
+{"query_id": "q0035", "text": "операции над матрицами", "relevant_doc_id": "5"}
+{"query_id": "q0036", "text": "linear_algebra determinants medium computational", "relevant_doc_id": "6"}
+{"query_id": "q0037", "text": "linear_algebra determinants", "relevant_doc_id": "6"}
+{"query_id": "q0038", "text": "math problem about determinants", "relevant_doc_id": "6"}
+{"query_id": "q0039", "text": "generate medium computational task about determinants", "relevant_doc_id": "6"}
+{"query_id": "q0040", "text": "explain and use determinants in linear_algebra", "relevant_doc_id": "6"}
+{"query_id": "q0041", "text": "определитель матрицы", "relevant_doc_id": "6"}
+{"query_id": "q0042", "text": "найти детерминант матрицы", "relevant_doc_id": "6"}
+{"query_id": "q0043", "text": "linear_algebra eigenvalues medium computational", "relevant_doc_id": "7"}
+{"query_id": "q0044", "text": "linear_algebra eigenvalues", "relevant_doc_id": "7"}
+{"query_id": "q0045", "text": "math problem about eigenvalues", "relevant_doc_id": "7"}
+{"query_id": "q0046", "text": "generate medium computational task about eigenvalues", "relevant_doc_id": "7"}
+{"query_id": "q0047", "text": "explain and use eigenvalues in linear_algebra", "relevant_doc_id": "7"}
+{"query_id": "q0048", "text": "собственные значения матрицы", "relevant_doc_id": "7"}
+{"query_id": "q0049", "text": "характеристическое уравнение матрицы", "relevant_doc_id": "7"}
+{"query_id": "q0050", "text": "linear_algebra eigenvectors medium computational", "relevant_doc_id": "8"}
+{"query_id": "q0051", "text": "linear_algebra eigenvectors", "relevant_doc_id": "8"}
+{"query_id": "q0052", "text": "math problem about eigenvectors", "relevant_doc_id": "8"}
+{"query_id": "q0053", "text": "generate medium computational task about eigenvectors", "relevant_doc_id": "8"}
+{"query_id": "q0054", "text": "explain and use eigenvectors in linear_algebra", "relevant_doc_id": "8"}
+{"query_id": "q0055", "text": "собственные векторы матрицы", "relevant_doc_id": "8"}
+{"query_id": "q0056", "text": "найти собственный вектор", "relevant_doc_id": "8"}
+{"query_id": "q0057", "text": "linear_algebra rank medium computational", "relevant_doc_id": "9"}
+{"query_id": "q0058", "text": "linear_algebra rank", "relevant_doc_id": "9"}
+{"query_id": "q0059", "text": "math problem about rank", "relevant_doc_id": "9"}
+{"query_id": "q0060", "text": "generate medium computational task about rank", "relevant_doc_id": "9"}
+{"query_id": "q0061", "text": "explain and use rank in linear_algebra", "relevant_doc_id": "9"}
+{"query_id": "q0062", "text": "ранг матрицы", "relevant_doc_id": "9"}
+{"query_id": "q0063", "text": "метод гаусса ранг матрицы", "relevant_doc_id": "9"}
+{"query_id": "q0064", "text": "linear_algebra linear independence medium proof", "relevant_doc_id": "10"}
+{"query_id": "q0065", "text": "linear_algebra linear independence", "relevant_doc_id": "10"}
+{"query_id": "q0066", "text": "math problem about linear independence", "relevant_doc_id": "10"}
+{"query_id": "q0067", "text": "generate medium proof task about linear independence", "relevant_doc_id": "10"}
+{"query_id": "q0068", "text": "explain and use linear independence in linear_algebra", "relevant_doc_id": "10"}
+{"query_id": "q0069", "text": "линейная независимость векторов", "relevant_doc_id": "10"}
+{"query_id": "q0070", "text": "доказать линейную независимость", "relevant_doc_id": "10"}
+{"query_id": "q0071", "text": "calculus limits easy computational", "relevant_doc_id": "11"}
+{"query_id": "q0072", "text": "calculus limits", "relevant_doc_id": "11"}
+{"query_id": "q0073", "text": "math problem about limits", "relevant_doc_id": "11"}
+{"query_id": "q0074", "text": "generate easy computational task about limits", "relevant_doc_id": "11"}
+{"query_id": "q0075", "text": "explain and use limits in calculus", "relevant_doc_id": "11"}
+{"query_id": "q0076", "text": "предел функции", "relevant_doc_id": "11"}
+{"query_id": "q0077", "text": "найти предел функции", "relevant_doc_id": "11"}
+{"query_id": "q0078", "text": "calculus integrals medium computational", "relevant_doc_id": "12"}
+{"query_id": "q0079", "text": "calculus integrals", "relevant_doc_id": "12"}
+{"query_id": "q0080", "text": "math problem about integrals", "relevant_doc_id": "12"}
+{"query_id": "q0081", "text": "generate medium computational task about integrals", "relevant_doc_id": "12"}
+{"query_id": "q0082", "text": "explain and use integrals in calculus", "relevant_doc_id": "12"}
+{"query_id": "q0083", "text": "неопределенный интеграл", "relevant_doc_id": "12"}
+{"query_id": "q0084", "text": "правила интегрирования", "relevant_doc_id": "12"}
+{"query_id": "q0085", "text": "calculus definite integrals medium computational", "relevant_doc_id": "13"}
+{"query_id": "q0086", "text": "calculus definite integrals", "relevant_doc_id": "13"}
+{"query_id": "q0087", "text": "math problem about definite integrals", "relevant_doc_id": "13"}
+{"query_id": "q0088", "text": "generate medium computational task about definite integrals", "relevant_doc_id": "13"}
+{"query_id": "q0089", "text": "explain and use definite integrals in calculus", "relevant_doc_id": "13"}
+{"query_id": "q0090", "text": "определенный интеграл", "relevant_doc_id": "13"}
+{"query_id": "q0091", "text": "формула Ньютона Лейбница", "relevant_doc_id": "13"}
+{"query_id": "q0092", "text": "calculus optimization medium word_problem", "relevant_doc_id": "14"}
+{"query_id": "q0093", "text": "calculus optimization", "relevant_doc_id": "14"}
+{"query_id": "q0094", "text": "math problem about optimization", "relevant_doc_id": "14"}
+{"query_id": "q0095", "text": "generate medium word_problem task about optimization", "relevant_doc_id": "14"}
+{"query_id": "q0096", "text": "explain and use optimization in calculus", "relevant_doc_id": "14"}
+{"query_id": "q0097", "text": "задача на максимум и минимум", "relevant_doc_id": "14"}
+{"query_id": "q0098", "text": "оптимизация с помощью производной", "relevant_doc_id": "14"}
+{"query_id": "q0099", "text": "geometry circles easy computational", "relevant_doc_id": "15"}
+{"query_id": "q0100", "text": "geometry circles", "relevant_doc_id": "15"}
+{"query_id": "q0101", "text": "math problem about circles", "relevant_doc_id": "15"}
+{"query_id": "q0102", "text": "generate easy computational task about circles", "relevant_doc_id": "15"}
+{"query_id": "q0103", "text": "explain and use circles in geometry", "relevant_doc_id": "15"}
+{"query_id": "q0104", "text": "окружность площадь длина окружности", "relevant_doc_id": "15"}
+{"query_id": "q0105", "text": "уравнение окружности", "relevant_doc_id": "15"}
+{"query_id": "q0106", "text": "geometry rectangles easy word_problem", "relevant_doc_id": "16"}
+{"query_id": "q0107", "text": "geometry rectangles", "relevant_doc_id": "16"}
+{"query_id": "q0108", "text": "math problem about rectangles", "relevant_doc_id": "16"}
+{"query_id": "q0109", "text": "generate easy word_problem task about rectangles", "relevant_doc_id": "16"}
+{"query_id": "q0110", "text": "explain and use rectangles in geometry", "relevant_doc_id": "16"}
+{"query_id": "q0111", "text": "площадь прямоугольника", "relevant_doc_id": "16"}
+{"query_id": "q0112", "text": "периметр прямоугольника", "relevant_doc_id": "16"}
+{"query_id": "q0113", "text": "geometry polygons medium computational", "relevant_doc_id": "17"}
+{"query_id": "q0114", "text": "geometry polygons", "relevant_doc_id": "17"}
+{"query_id": "q0115", "text": "math problem about polygons", "relevant_doc_id": "17"}
+{"query_id": "q0116", "text": "generate medium computational task about polygons", "relevant_doc_id": "17"}
+{"query_id": "q0117", "text": "explain and use polygons in geometry", "relevant_doc_id": "17"}
+{"query_id": "q0118", "text": "многоугольник сумма внутренних углов", "relevant_doc_id": "17"}
+{"query_id": "q0119", "text": "правильный многоугольник угол", "relevant_doc_id": "17"}
+{"query_id": "q0120", "text": "geometry coordinate geometry medium computational", "relevant_doc_id": "18"}
+{"query_id": "q0121", "text": "geometry coordinate geometry", "relevant_doc_id": "18"}
+{"query_id": "q0122", "text": "math problem about coordinate geometry", "relevant_doc_id": "18"}
+{"query_id": "q0123", "text": "generate medium computational task about coordinate geometry", "relevant_doc_id": "18"}
+{"query_id": "q0124", "text": "explain and use coordinate geometry in geometry", "relevant_doc_id": "18"}
+{"query_id": "q0125", "text": "координатная геометрия расстояние середина", "relevant_doc_id": "18"}
+{"query_id": "q0126", "text": "формула расстояния между точками", "relevant_doc_id": "18"}
+{"query_id": "q0127", "text": "probability basic probability easy word_problem", "relevant_doc_id": "19"}
+{"query_id": "q0128", "text": "probability basic probability", "relevant_doc_id": "19"}
+{"query_id": "q0129", "text": "math problem about basic probability", "relevant_doc_id": "19"}
+{"query_id": "q0130", "text": "generate easy word_problem task about basic probability", "relevant_doc_id": "19"}
+{"query_id": "q0131", "text": "explain and use basic probability in probability", "relevant_doc_id": "19"}
+{"query_id": "q0132", "text": "базовая вероятность", "relevant_doc_id": "19"}
+{"query_id": "q0133", "text": "вероятность благоприятные исходы", "relevant_doc_id": "19"}
+{"query_id": "q0134", "text": "probability conditional probability medium word_problem", "relevant_doc_id": "20"}
+{"query_id": "q0135", "text": "probability conditional probability", "relevant_doc_id": "20"}
+{"query_id": "q0136", "text": "math problem about conditional probability", "relevant_doc_id": "20"}
+{"query_id": "q0137", "text": "generate medium word_problem task about conditional probability", "relevant_doc_id": "20"}
+{"query_id": "q0138", "text": "explain and use conditional probability in probability", "relevant_doc_id": "20"}
+{"query_id": "q0139", "text": "условная вероятность", "relevant_doc_id": "20"}
+{"query_id": "q0140", "text": "формула условной вероятности", "relevant_doc_id": "20"}
+{"query_id": "q0141", "text": "probability independent events medium proof", "relevant_doc_id": "21"}
+{"query_id": "q0142", "text": "probability independent events", "relevant_doc_id": "21"}
+{"query_id": "q0143", "text": "math problem about independent events", "relevant_doc_id": "21"}
+{"query_id": "q0144", "text": "generate medium proof task about independent events", "relevant_doc_id": "21"}
+{"query_id": "q0145", "text": "explain and use independent events in probability", "relevant_doc_id": "21"}
+{"query_id": "q0146", "text": "независимые события вероятность", "relevant_doc_id": "21"}
+{"query_id": "q0147", "text": "доказать независимость событий", "relevant_doc_id": "21"}
+{"query_id": "q0148", "text": "probability bayes theorem hard word_problem", "relevant_doc_id": "22"}
+{"query_id": "q0149", "text": "probability bayes theorem", "relevant_doc_id": "22"}
+{"query_id": "q0150", "text": "math problem about bayes theorem", "relevant_doc_id": "22"}
+{"query_id": "q0151", "text": "generate hard word_problem task about bayes theorem", "relevant_doc_id": "22"}
+{"query_id": "q0152", "text": "explain and use bayes theorem in probability", "relevant_doc_id": "22"}
+{"query_id": "q0153", "text": "формула байеса", "relevant_doc_id": "22"}
+{"query_id": "q0154", "text": "задача на теорему байеса", "relevant_doc_id": "22"}
+{"query_id": "q0155", "text": "statistics mean median mode easy computational", "relevant_doc_id": "23"}
+{"query_id": "q0156", "text": "statistics mean median mode", "relevant_doc_id": "23"}
+{"query_id": "q0157", "text": "math problem about mean median mode", "relevant_doc_id": "23"}
+{"query_id": "q0158", "text": "generate easy computational task about mean median mode", "relevant_doc_id": "23"}
+{"query_id": "q0159", "text": "explain and use mean median mode in statistics", "relevant_doc_id": "23"}
+{"query_id": "q0160", "text": "среднее медиана мода", "relevant_doc_id": "23"}
+{"query_id": "q0161", "text": "найти среднее значение медиану и моду", "relevant_doc_id": "23"}
+{"query_id": "q0162", "text": "statistics variance medium computational", "relevant_doc_id": "24"}
+{"query_id": "q0163", "text": "statistics variance", "relevant_doc_id": "24"}
+{"query_id": "q0164", "text": "math problem about variance", "relevant_doc_id": "24"}
+{"query_id": "q0165", "text": "generate medium computational task about variance", "relevant_doc_id": "24"}
+{"query_id": "q0166", "text": "explain and use variance in statistics", "relevant_doc_id": "24"}
+{"query_id": "q0167", "text": "дисперсия и стандартное отклонение", "relevant_doc_id": "24"}
+{"query_id": "q0168", "text": "найти дисперсию выборки", "relevant_doc_id": "24"}
+{"query_id": "q0169", "text": "statistics normal distribution medium word_problem", "relevant_doc_id": "25"}
+{"query_id": "q0170", "text": "statistics normal distribution", "relevant_doc_id": "25"}
+{"query_id": "q0171", "text": "math problem about normal distribution", "relevant_doc_id": "25"}
+{"query_id": "q0172", "text": "generate medium word_problem task about normal distribution", "relevant_doc_id": "25"}
+{"query_id": "q0173", "text": "explain and use normal distribution in statistics", "relevant_doc_id": "25"}
+{"query_id": "q0174", "text": "нормальное распределение z оценка", "relevant_doc_id": "25"}
+{"query_id": "q0175", "text": "задача на нормальное распределение", "relevant_doc_id": "25"}
+{"query_id": "q0176", "text": "discrete_math combinatorics medium word_problem", "relevant_doc_id": "26"}
+{"query_id": "q0177", "text": "discrete_math combinatorics", "relevant_doc_id": "26"}
+{"query_id": "q0178", "text": "math problem about combinatorics", "relevant_doc_id": "26"}
+{"query_id": "q0179", "text": "generate medium word_problem task about combinatorics", "relevant_doc_id": "26"}
+{"query_id": "q0180", "text": "explain and use combinatorics in discrete_math", "relevant_doc_id": "26"}
+{"query_id": "q0181", "text": "комбинаторика перестановки сочетания", "relevant_doc_id": "26"}
+{"query_id": "q0182", "text": "задача на подсчет вариантов", "relevant_doc_id": "26"}
+{"query_id": "q0183", "text": "discrete_math graph theory medium proof", "relevant_doc_id": "27"}
+{"query_id": "q0184", "text": "discrete_math graph theory", "relevant_doc_id": "27"}
+{"query_id": "q0185", "text": "math problem about graph theory", "relevant_doc_id": "27"}
+{"query_id": "q0186", "text": "generate medium proof task about graph theory", "relevant_doc_id": "27"}
+{"query_id": "q0187", "text": "explain and use graph theory in discrete_math", "relevant_doc_id": "27"}
+{"query_id": "q0188", "text": "теория графов вершины ребра", "relevant_doc_id": "27"}
+{"query_id": "q0189", "text": "доказательство в теории графов", "relevant_doc_id": "27"}
+{"query_id": "q0190", "text": "discrete_math logic easy proof", "relevant_doc_id": "28"}
+{"query_id": "q0191", "text": "discrete_math logic", "relevant_doc_id": "28"}
+{"query_id": "q0192", "text": "math problem about logic", "relevant_doc_id": "28"}
+{"query_id": "q0193", "text": "generate easy proof task about logic", "relevant_doc_id": "28"}
+{"query_id": "q0194", "text": "explain and use logic in discrete_math", "relevant_doc_id": "28"}
+{"query_id": "q0195", "text": "математическая логика таблица истинности", "relevant_doc_id": "28"}
+{"query_id": "q0196", "text": "логические связки импликация эквивалентность", "relevant_doc_id": "28"}
+{"query_id": "q0197", "text": "number_theory divisibility easy proof", "relevant_doc_id": "29"}
+{"query_id": "q0198", "text": "number_theory divisibility", "relevant_doc_id": "29"}
+{"query_id": "q0199", "text": "math problem about divisibility", "relevant_doc_id": "29"}
+{"query_id": "q0200", "text": "generate easy proof task about divisibility", "relevant_doc_id": "29"}
+{"query_id": "q0201", "text": "explain and use divisibility in number_theory", "relevant_doc_id": "29"}
+{"query_id": "q0202", "text": "делимость чисел", "relevant_doc_id": "29"}
+{"query_id": "q0203", "text": "доказать делимость", "relevant_doc_id": "29"}
+{"query_id": "q0204", "text": "number_theory modular arithmetic medium computational", "relevant_doc_id": "30"}
+{"query_id": "q0205", "text": "number_theory modular arithmetic", "relevant_doc_id": "30"}
+{"query_id": "q0206", "text": "math problem about modular arithmetic", "relevant_doc_id": "30"}
+{"query_id": "q0207", "text": "generate medium computational task about modular arithmetic", "relevant_doc_id": "30"}
+{"query_id": "q0208", "text": "explain and use modular arithmetic in number_theory", "relevant_doc_id": "30"}
+{"query_id": "q0209", "text": "сравнения по модулю", "relevant_doc_id": "30"}
+{"query_id": "q0210", "text": "модульная арифметика остатки", "relevant_doc_id": "30"}
+{"query_id": "q0211", "text": "algebra linear equations easy computational", "relevant_doc_id": "31"}
+{"query_id": "q0212", "text": "algebra linear equations", "relevant_doc_id": "31"}
+{"query_id": "q0213", "text": "math problem about linear equations", "relevant_doc_id": "31"}
+{"query_id": "q0214", "text": "generate easy computational task about linear equations", "relevant_doc_id": "31"}
+{"query_id": "q0215", "text": "explain and use linear equations in algebra", "relevant_doc_id": "31"}
+{"query_id": "q0216", "text": "линейные уравнения", "relevant_doc_id": "31"}
+{"query_id": "q0217", "text": "решить линейное уравнение", "relevant_doc_id": "31"}
+{"query_id": "q0218", "text": "algebra inequalities medium computational", "relevant_doc_id": "32"}
+{"query_id": "q0219", "text": "algebra inequalities", "relevant_doc_id": "32"}
+{"query_id": "q0220", "text": "math problem about inequalities", "relevant_doc_id": "32"}
+{"query_id": "q0221", "text": "generate medium computational task about inequalities", "relevant_doc_id": "32"}
+{"query_id": "q0222", "text": "explain and use inequalities in algebra", "relevant_doc_id": "32"}
+{"query_id": "q0223", "text": "неравенства", "relevant_doc_id": "32"}
+{"query_id": "q0224", "text": "решить неравенство", "relevant_doc_id": "32"}
