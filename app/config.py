@@ -5,7 +5,7 @@ load_dotenv()
 
 API_KEY = os.getenv("API_KEY", "")
 API_BASE = os.getenv("API_BASE", "")
-MODEL_NAME = os.getenv("MODEL_NAME", "qwen-3-235b-a22b-instruct-2507")
+MODEL_NAME = os.getenv("MODEL_NAME", "gpt-oss-120b")
 
 if not API_KEY:
     raise ValueError("API_KEY is not set")
