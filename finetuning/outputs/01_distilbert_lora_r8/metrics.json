@@ -1,0 +1,11 @@
+{
+  "run_name": "01_distilbert_lora_r8",
+  "model_name": "distilbert-base-uncased",
+  "eval_accuracy": 0.844,
+  "eval_f1": 0.8497109826589595,
+  "eval_loss": 0.40982306003570557,
+  "train_runtime": 48.1433,
+  "train_samples_per_second": 103.857,
+  "total_runtime_seconds": 60.1421,
+  "adapter_size_mb": 3.5147
+}

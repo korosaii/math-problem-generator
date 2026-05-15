@@ -1,0 +1,11 @@
+{
+  "run_name": "03_roberta_lora_r8",
+  "model_name": "roberta-base",
+  "eval_accuracy": 0.895,
+  "eval_f1": 0.8953140578265204,
+  "eval_loss": 0.36064696311950684,
+  "train_runtime": 85.8445,
+  "train_samples_per_second": 58.245,
+  "total_runtime_seconds": 156.3753,
+  "adapter_size_mb": 6.796
+}

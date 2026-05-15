@@ -15,3 +15,6 @@ __pycache__/
 *.log
 
 artifacts/
+finetuning/data/
+finetuning/outputs/*/checkpoint-*/
+finetuning/outputs/*/adapter/

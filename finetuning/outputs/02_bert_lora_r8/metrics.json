@@ -1,0 +1,11 @@
+{
+  "run_name": "02_bert_lora_r8",
+  "model_name": "bert-base-uncased",
+  "eval_accuracy": 0.85,
+  "eval_f1": 0.8571428571428571,
+  "eval_loss": 0.44026556611061096,
+  "train_runtime": 82.8817,
+  "train_samples_per_second": 60.327,
+  "total_runtime_seconds": 159.4193,
+  "adapter_size_mb": 1.8272
+}

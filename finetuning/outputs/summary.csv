@@ -1,0 +1,6 @@
+run_name,model_name,lora_r,lora_alpha,batch_size,max_length,learning_rate,eval_accuracy,eval_f1,eval_loss,train_runtime,total_runtime_seconds,adapter_size_mb
+01_distilbert_lora_r8,distilbert-base-uncased,8,16,4,128,0.0002,0.844,0.8497109826589595,0.40982306003570557,48.1433,60.1421,3.5147
+02_bert_lora_r8,bert-base-uncased,8,16,4,128,0.0002,0.85,0.8571428571428571,0.44026556611061096,82.8817,159.4193,1.8272
+03_roberta_lora_r8,roberta-base,8,16,4,128,0.0002,0.895,0.8953140578265204,0.36064696311950684,85.8445,156.3753,6.796
+04_distilbert_lora_r4,distilbert-base-uncased,4,8,4,128,0.0002,0.837,0.8428158148505304,0.41528159379959106,44.2796,56.4159,3.2334
+05_distilbert_lora_r16,distilbert-base-uncased,16,32,4,128,0.0002,0.844,0.8502879078694817,0.41441401839256287,44.7359,56.0328,4.0772
